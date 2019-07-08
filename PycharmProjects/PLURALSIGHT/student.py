@@ -20,5 +20,6 @@ class Student:
         return self.school_name
 
 
+print("Trying out Git commands here")
 
 
